@@ -1,0 +1,29 @@
+body.dark-theme {
+    background-color: #333;
+    color: white;
+}
+
+div {
+    text-align:  center;
+}
+
+h1 {
+    color: crimson;
+    font-family: sans-serif;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: x-large;
+    color: chocolate;
+}
+
+
+button#toggle-theme-btn {
+    background-color: blanchedalmond;
+    border: 1px solid blanchedalmond;
+    font-family: sans-serif;
+    color: gray;
+    border-radius: 11px;
+    cursor: pointer;
+}
